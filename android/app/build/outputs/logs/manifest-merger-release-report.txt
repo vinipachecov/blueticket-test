@@ -1,0 +1,156 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/vinicius/repos/blueticket-test/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/vinicius/repos/blueticket-test/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/vinicius/repos/blueticket-test/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/vinicius/repos/blueticket-test/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-gesture-handler] /home/vinicius/repos/blueticket-test/node_modules/react-native-gesture-handler/android/build/intermediates/manifests/full/release/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.57.8] /home/vinicius/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/95e34188d53b5e5c3695a47de1edf153/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/vinicius/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d97dcc13eb9787a11487dc0dada0c094/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/vinicius/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/6867935ce8fce2ea1504cd99d29576db/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/vinicius/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/83a60a288166a1f3426ba7ac0fb4306b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/vinicius/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/c5cebdef81c0d22226b9c167b41f0050/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/vinicius/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/a43fc56f345d0e78f0f5e071d632f84b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/vinicius/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/c823124e9e14f59e1409e43a64b27628/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/vinicius/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/3b87c81dc0c84cc40025af55b5b1b9fb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/vinicius/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/41689cff4363f93be35c9df43e3dd78c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/vinicius/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/605f0777871cf676c50bc2467515d010/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/vinicius/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/4ee00762e4276e9f8ff234bba650407f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/vinicius/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/4b1a19d01e92b49f9b5df706307ba2aa/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/vinicius/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/e6f30b1f42d61496da0c44a7b72f4160/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/vinicius/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/29e4fcaa8af26f98a0a7c55de61828fd/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] /home/vinicius/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/70c1402ed1e7117c62e8c84a4304f7f4/AndroidManifest.xml:1:1-3:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/vinicius/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/b368c8917439021fd3b5572e708a9036/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/vinicius/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/623a641ddea48b8eb90ba858d94120f5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/vinicius/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/24207e6926c5c53f1cc611741967733a/AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/vinicius/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/414b275770f50b887d3605cb8b5c941f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/vinicius/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/99cabd8ff16846ad3bea488898831d63/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/vinicius/repos/blueticket-test/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/vinicius/repos/blueticket-test/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/vinicius/repos/blueticket-test/android/app/src/main/AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from /home/vinicius/repos/blueticket-test/android/app/src/main/AndroidManifest.xml:2:5-29
+		INJECTED from /home/vinicius/repos/blueticket-test/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vinicius/repos/blueticket-test/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/vinicius/repos/blueticket-test/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/vinicius/repos/blueticket-test/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/vinicius/repos/blueticket-test/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/vinicius/repos/blueticket-test/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/vinicius/repos/blueticket-test/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/vinicius/repos/blueticket-test/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/vinicius/repos/blueticket-test/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/vinicius/repos/blueticket-test/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /home/vinicius/repos/blueticket-test/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/vinicius/repos/blueticket-test/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.57.8] /home/vinicius/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/95e34188d53b5e5c3695a47de1edf153/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.57.8] /home/vinicius/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/95e34188d53b5e5c3695a47de1edf153/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /home/vinicius/repos/blueticket-test/android/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /home/vinicius/repos/blueticket-test/android/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [com.facebook.react:react-native:0.57.8] /home/vinicius/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/95e34188d53b5e5c3695a47de1edf153/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.57.8] /home/vinicius/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/95e34188d53b5e5c3695a47de1edf153/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/vinicius/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/29e4fcaa8af26f98a0a7c55de61828fd/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/vinicius/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/29e4fcaa8af26f98a0a7c55de61828fd/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /home/vinicius/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/70c1402ed1e7117c62e8c84a4304f7f4/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /home/vinicius/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/70c1402ed1e7117c62e8c84a4304f7f4/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /home/vinicius/repos/blueticket-test/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:icon
+		ADDED from /home/vinicius/repos/blueticket-test/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from /home/vinicius/repos/blueticket-test/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /home/vinicius/repos/blueticket-test/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /home/vinicius/repos/blueticket-test/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.blueticket.MainActivity
+ADDED from /home/vinicius/repos/blueticket-test/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /home/vinicius/repos/blueticket-test/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /home/vinicius/repos/blueticket-test/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /home/vinicius/repos/blueticket-test/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /home/vinicius/repos/blueticket-test/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/vinicius/repos/blueticket-test/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /home/vinicius/repos/blueticket-test/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /home/vinicius/repos/blueticket-test/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/vinicius/repos/blueticket-test/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /home/vinicius/repos/blueticket-test/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/vinicius/repos/blueticket-test/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /home/vinicius/repos/blueticket-test/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /home/vinicius/repos/blueticket-test/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/vinicius/repos/blueticket-test/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/vinicius/repos/blueticket-test/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-gesture-handler] /home/vinicius/repos/blueticket-test/node_modules/react-native-gesture-handler/android/build/intermediates/manifests/full/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /home/vinicius/repos/blueticket-test/node_modules/react-native-gesture-handler/android/build/intermediates/manifests/full/release/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.8] /home/vinicius/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/95e34188d53b5e5c3695a47de1edf153/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.8] /home/vinicius/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/95e34188d53b5e5c3695a47de1edf153/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/vinicius/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d97dcc13eb9787a11487dc0dada0c094/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/vinicius/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d97dcc13eb9787a11487dc0dada0c094/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/vinicius/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/6867935ce8fce2ea1504cd99d29576db/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/vinicius/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/6867935ce8fce2ea1504cd99d29576db/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/vinicius/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/83a60a288166a1f3426ba7ac0fb4306b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/vinicius/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/83a60a288166a1f3426ba7ac0fb4306b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/vinicius/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/c5cebdef81c0d22226b9c167b41f0050/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/vinicius/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/c5cebdef81c0d22226b9c167b41f0050/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/vinicius/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/a43fc56f345d0e78f0f5e071d632f84b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/vinicius/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/a43fc56f345d0e78f0f5e071d632f84b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/vinicius/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/c823124e9e14f59e1409e43a64b27628/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/vinicius/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/c823124e9e14f59e1409e43a64b27628/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/vinicius/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/3b87c81dc0c84cc40025af55b5b1b9fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/vinicius/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/3b87c81dc0c84cc40025af55b5b1b9fb/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/vinicius/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/41689cff4363f93be35c9df43e3dd78c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/vinicius/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/41689cff4363f93be35c9df43e3dd78c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/vinicius/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/605f0777871cf676c50bc2467515d010/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/vinicius/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/605f0777871cf676c50bc2467515d010/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/vinicius/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/4ee00762e4276e9f8ff234bba650407f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/vinicius/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/4ee00762e4276e9f8ff234bba650407f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/vinicius/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/4b1a19d01e92b49f9b5df706307ba2aa/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/vinicius/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/4b1a19d01e92b49f9b5df706307ba2aa/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/vinicius/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/e6f30b1f42d61496da0c44a7b72f4160/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/vinicius/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/e6f30b1f42d61496da0c44a7b72f4160/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/vinicius/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/29e4fcaa8af26f98a0a7c55de61828fd/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/vinicius/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/29e4fcaa8af26f98a0a7c55de61828fd/AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/vinicius/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/b368c8917439021fd3b5572e708a9036/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/vinicius/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/b368c8917439021fd3b5572e708a9036/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/vinicius/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/623a641ddea48b8eb90ba858d94120f5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/vinicius/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/623a641ddea48b8eb90ba858d94120f5/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/vinicius/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/24207e6926c5c53f1cc611741967733a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/vinicius/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/24207e6926c5c53f1cc611741967733a/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/vinicius/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/414b275770f50b887d3605cb8b5c941f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/vinicius/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/414b275770f50b887d3605cb8b5c941f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/vinicius/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/99cabd8ff16846ad3bea488898831d63/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/vinicius/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/99cabd8ff16846ad3bea488898831d63/AndroidManifest.xml:20:5-44
+INJECTED from /home/vinicius/repos/blueticket-test/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/vinicius/repos/blueticket-test/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/vinicius/repos/blueticket-test/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/vinicius/repos/blueticket-test/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vinicius/repos/blueticket-test/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/vinicius/repos/blueticket-test/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/vinicius/repos/blueticket-test/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vinicius/repos/blueticket-test/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /home/vinicius/repos/blueticket-test/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /home/vinicius/repos/blueticket-test/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /home/vinicius/repos/blueticket-test/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
